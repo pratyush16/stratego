@@ -1,4 +1,4 @@
-#include "hw6prgm.h"
+#include "functions.h"
 using namespace std;
 
 int main()
